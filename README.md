@@ -65,11 +65,8 @@ Java && Springboot** 🍃🍃
 
 ---
 
-## 📊 Estatísticas do GitHub
 
----
-
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Satus
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielbkx&show_icons=true&theme=tokyonight&include_all_commits=true"/>
@@ -78,4 +75,10 @@ Java && Springboot** 🍃🍃
 
 ---
 
----
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake.svg" />
+</picture>
