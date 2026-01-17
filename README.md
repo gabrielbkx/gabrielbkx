@@ -63,10 +63,8 @@ Java && Springboot** 🍃🍃
 
 ## 📊 GitHub Satus
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielbkx&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbkx&layout=compact&theme=tokyonight"/>
-</div>
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=gabrielbkx&show_icons=true&theme=dracula)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbkx&layout=compact&theme=dracula)
 
 ---
 
