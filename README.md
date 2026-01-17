@@ -11,14 +11,9 @@ Java && Springboot** 🍃🍃
     <img src="https://img.shields.io/badge/GitHub-gabrielbkx-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/gabrielolif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/YouTube-Visão%20Binária-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/TikTok-Visão%20Binária-000000?style=for-the-badge&logo=tiktok" />
-  </a>
+  
 </p>
 
 ---
