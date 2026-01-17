@@ -10,7 +10,7 @@ Java && Springboot** 🍃🍃
   <a href="https://github.com/gabrielbkx">
     <img src="https://img.shields.io/badge/GitHub-gabrielbkx-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+  <a href="https://www.linkedin.com/in//gabrielolif">
     <img src="https://img.shields.io/badge/gabrielolif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
@@ -61,14 +61,19 @@ Java && Springboot** 🍃🍃
 ---
 
 
-## 📊 GitHub Satus
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=gabrielbkx&show_icons=true&theme=dracula)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbkx&layout=compact&theme=dracula)
-
 ---
 
-###
+## 🏆 Minhas Conquistas
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielbkx&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=gabrielbkx&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
