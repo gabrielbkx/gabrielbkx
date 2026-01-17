@@ -13,6 +13,10 @@ Java && Springboot** 🍃🍃
   <a href="https://www.linkedin.com/in//gabrielolif">
     <img src="https://img.shields.io/badge/gabrielolif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="https://wa.me/5500000000000">
+    <img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
   
 </p>
 
@@ -63,17 +67,6 @@ Java && Springboot** 🍃🍃
 
 ---
 
-## 🏆 Minhas Conquistas
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielbkx&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  
-  <br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrielbkx&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v1ih/v1ih/output/github-snake-dark.svg" />
