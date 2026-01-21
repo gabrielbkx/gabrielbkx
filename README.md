@@ -28,7 +28,7 @@ Java && Springboot** 🍃🍃
 - 🚀 **APIs RESTful:** Criação de APIs escaláveis com Spring Boot.
 - ☁️ **Cloud & DevOps:** Deploy em AWS (EC2), OCI e containerização.
 - 🐳 **Infraestrutura:** Criação de ambientes com Docker e Docker Compose.
-- 🎨 **Frontend:** Conhecimento sólido nas bases da web (HTML/CSS/JS).
+- 🎨 **Frontend:** Conhecimento nas bases da web (HTML/CSS/JS).
 
 ---
 
