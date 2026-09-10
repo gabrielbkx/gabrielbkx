@@ -139,8 +139,10 @@ Desafio técnico levado até o fim: build, testes e entrega automatizados.
 
 ### 📊 GitHub
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielbkx&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbkx&layout=compact&hide_border=true&theme=tokyonight&hide=html,css,scss,javascript&langs_count=6" alt="Linguagens" />
+<img width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielbkx&theme=tokyonight" alt="Resumo do perfil" />
+
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabrielbkx&theme=tokyonight" alt="Linguagens por commit" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabrielbkx&theme=tokyonight" alt="Linguagens por repositório" />
 
 <br><br>
 
