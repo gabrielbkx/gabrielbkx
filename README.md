@@ -25,13 +25,13 @@
 
 ## 🏢 No que eu trabalho
 
-Desenvolvo o **SIGESCANTT** na **OTI Software** — sistema de gestão para uma agência
+Desenvolvo o **SIGESCANTT** na **OTI Software**, sistema de gestão para uma agência
 reguladora federal (**ANTT**). É um Maven multi-módulo com *server*, *services*, *shared*,
 *schedulers*, GED e dois SDKs de integração, rodando Spring Boot com Keycloak,
 **PostgreSQL e SQL Server na mesma aplicação**, Liquibase versionando schema e
 Spring Batch + Quartz nas rotinas noturnas.
 
-> É o tipo de sistema onde a decisão errada não aparece no deploy — aparece seis meses
+> É o tipo de sistema onde a decisão errada não aparece no deploy. Ela aparece seis meses
 > depois, num job que roda às 3h e ninguém está olhando. Foi ali que aprendi a me importar
 > com idempotência, com o que acontece quando o terceiro cai, e com deixar o rastro que o
 > próximo dev vai precisar ler.
@@ -76,7 +76,8 @@ Spring Batch + Quartz nas rotinas noturnas.
 
 ## 🚀 Projetos
 
-### 🍽️ [batchaurant](https://github.com/gabrielbkx/batchaurant) — importação em lote que aguenta arquivo sujo
+### 🍽️ [batchaurant](https://github.com/gabrielbkx/batchaurant)
+**Importação em lote que aguenta arquivo sujo.**
 
 Arquivo de verdade vem com data em formato errado, mesa que não é número, valor negativo.
 A pergunta que o projeto responde: **quando uma linha ruim deve derrubar o lote e quando
@@ -88,9 +89,10 @@ de 100 e um Step de validação que **para o job de propósito** para você conf
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![48 testes](https://img.shields.io/badge/48_testes-25A162?style=flat-square&logo=junit5&logoColor=white)
 
-### 🎉 [FestConnect](https://github.com/gabrielbkx/FestConnect) — marketplace de eventos
+### 🎉 [FestConnect](https://github.com/gabrielbkx/FestConnect)
+**Marketplace que conecta organizadores de eventos a prestadores.**
 
-Conecta organizadores a prestadores. Catálogo modelado com **herança JOINED** (`Produto`,
+Catálogo modelado com **herança JOINED** (`Produto`,
 `Servico` e `Local` estendendo `ItemCatalogo`), busca por raio com Haversine, upload em S3
 com geração de thumbnail e rastreamento distribuído com OpenTelemetry + Jaeger.
 
@@ -100,11 +102,12 @@ com geração de thumbnail e rastreamento distribuído com OpenTelemetry + Jaege
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 
-### 🏦 [nutau](https://github.com/gabrielbkx/nutau) — banco digital com crédito assíncrono
+### 🏦 [nutau](https://github.com/gabrielbkx/nutau)
+**Banco digital com análise de crédito assíncrona.**
 
 A análise consulta dois bureaus externos e leva segundos. Segurar a conexão HTTP esperando
 custaria **uma thread por cliente** e amarraria a disponibilidade da minha API à de um
-terceiro — então o endpoint aceita, responde **`202 Accepted`** e devolve o id para
+terceiro. Então o endpoint aceita, responde **`202 Accepted`** e devolve o id para
 acompanhamento. A mensageria que vai consumir esse fluxo é a Fase 2, com o ponto de corte
 marcado no código.
 
@@ -114,7 +117,8 @@ marcado no código.
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=flat-square&logo=liquibase&logoColor=white)
 
-### 📮 [cep-service](https://github.com/gabrielbkx/cep-service) — API de CEP com pipeline completo
+### 📮 [cep-service](https://github.com/gabrielbkx/cep-service)
+**API de consulta de CEP com pipeline completo.**
 
 Autenticação JWT, cache e **CI/CD no GitHub Actions com deploy ativo no Render**.
 Desafio técnico levado até o fim: build, testes e entrega automatizados.
@@ -129,9 +133,9 @@ Desafio técnico levado até o fim: build, testes e entrega automatizados.
 
 ## 🎯 No que estou focado agora
 
-- 📨 **Processamento assíncrono** — desacoplar o que é lento do ciclo request/response
-- 🔁 **Jobs em lote resilientes** — chunk, skip policy, restart e idempotência
-- 🧩 **Fronteira de módulo** — onde separar, o que expor, o que manter privado
+- 📨 **Processamento assíncrono.** Desacoplar o que é lento do ciclo request/response
+- 🔁 **Jobs em lote resilientes.** Chunk, skip policy, restart e idempotência
+- 🧩 **Fronteira de módulo.** Onde separar, o que expor, o que manter privado
 
 ---
 
@@ -146,6 +150,6 @@ Desafio técnico levado até o fim: build, testes e entrega automatizados.
 
 <br><br>
 
-💬 Aberto a oportunidades **backend** — Java · Kotlin · Spring Boot
+💬 Aberto a oportunidades **backend** · Java · Kotlin · Spring Boot
 
 </div>
